@@ -98,4 +98,6 @@ The model generates color-coded segmentation maps highlighting different terrain
 
 ## 👨‍💻 Author
 
-* Shubham
+* Rohan Gangarde
+* Parth Bagul
+* Prathamesh Waman
